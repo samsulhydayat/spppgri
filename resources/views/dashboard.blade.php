@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<img src="{{ asset("background.png") }}" class="rounded">
+<img src="{{ asset("background.png") }}" class="rounded w-100">
 
 
 @endsection
