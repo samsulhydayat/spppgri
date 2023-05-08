@@ -17,3 +17,8 @@ Berikut ini adalah link video presentasi dari kami:
 - **[Fegin Maghreza K.S](https://drive.google.com/drive/folders/10uX6zirXwTVj7jGrgAcI61hGUk5yI4JD?usp=sharing/)**
 - **[Samsul Hydayat](https://drive.google.com/drive/folders/13-NJsUB1ftPTZjUkuPHXhF3uZMqUhwS3?usp=sharing/)**
 - **[Andreas Cambert Antoni](https://drive.google.com/file/d/1DVtFcnngGyPWBi5eePlBMd8ACMcDBfIi/view?usp=drivesdk/)**
+
+## URL DEPLOY
+
+Berikut untuk Link Deploy:
+- **[Link Deploy](https://spppgri.online/)**
